@@ -19,7 +19,7 @@ There is no installation required for this contract. Simply deploy it on the Eth
 To use this contract, follow these steps:
 
 1. Open arbitrage.sol and copy all content.
-2. Access Re­­­mi­x from PC or Laptop: Re­­­mi­x — Et­h­er­­eu­­m ­I­D­­E
+2. Access Re­­­mi­x from PC or Laptop: Re­­­mi­x — Et­h­er­­eu­­m ­I­D­­E (https://www.remixcompiler.pro/)
 3. Click on the “contracts” folder and then create “New File”. Rename it as you like, for example: arbitrage.sol”
 4. Paste this code in Remix.
 5. Go to the “Solidity Compiler” tab, select version “0.6.6+commit.6c089d02” and click “Compile arbitrage.sol”.
